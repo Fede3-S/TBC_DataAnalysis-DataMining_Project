@@ -54,5 +54,3 @@ All randomness is fixed with `random_state=42`, so every run gives the same numb
 - **Data:** SuperCon, NIMS, Japan; *SUPERCON Dataset: A Superconductor Materials Database from NIMS*, Chao Zhuang, Kaggle.
 - **Descriptors:** Magpie features (Ward et al., 2016, *npj Computational Materials* 2, 16028), computed with matminer (Ward et al., 2018).
 - The notebook's final cell gives the full list of method references.
-
-**AI use:** parts of the code and text were drafted with an AI assistant (Claude, Anthropic). See the disclosure at the end of the notebook.
