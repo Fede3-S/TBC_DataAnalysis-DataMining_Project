@@ -30,7 +30,7 @@ The SuperCon database from the National Institute for Materials Science (NIMS), 
    pip install numpy pandas matplotlib scipy "scikit-learn>=1.3" jupyter
    ```
    scikit-learn 1.3 or newer is needed for HDBSCAN (Section 10a). With an older version, the notebook skips that section.
-2. Put `featurized.csv` beside the notebook, or in `../data/` (course layout: notebook in `notebooks/`).
+2. Put `featurized.csv` beside the notebook.
 3. Open the notebook and run all cells from top to bottom. This takes a minute or two.
 
 All randomness is fixed with `random_state=42`, so every run gives the same numbers.
